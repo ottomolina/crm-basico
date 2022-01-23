@@ -1,0 +1,5 @@
+/api-crm/build
+/api-crm/node_modules
+/api-crm/.env
+
+/web-crm/node_modules
